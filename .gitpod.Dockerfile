@@ -11,4 +11,4 @@ USER gitpod
 #
 # More information: https://www.gitpod.io/docs/42_config_docker/
 
-RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs -y | sh
+#RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs -y | sh
